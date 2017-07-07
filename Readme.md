@@ -1,4 +1,4 @@
-Low-Rank Sparse Feature Selection for PatientSimilarity Learning
+Low-Rank Sparse Feature Selection for Patient Similarity Learning
 ==================
 
 **Usage**:
