@@ -6,7 +6,7 @@ Run the iono_metric.m
 
 **Reference**
 
-* Mengting Zhan, Shilei Cao, Buyue Qian, Shiyu Chang, Jishang Wei: Low-Rank Sparse Feature Selection for Patient Similarity Learning. ICDM 2016: 1335-1340 [pdf](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7837995&tag=1)
+* Mengting Zhan, Shilei Cao, Buyue Qian, Shiyu Chang, Jishang Wei: Low-Rank Sparse Feature Selection for Patient Similarity Learning. ICDM 2016: 1335-1340 [pdf](http://ieeexplore.ieee.org/document/7837995/)
 
 ```
 @inproceedings{DBLP:conf/icdm/ZhanCQCW16,
